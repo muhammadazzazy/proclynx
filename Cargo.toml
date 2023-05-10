@@ -6,7 +6,6 @@ authors = ["Jana Saleh", "Muhammad Azzazy", "Reem Said"]
 description = "A process manager for Linux."
 license = "MIT"
 repository = "https://github.com/muhammadazzazy/proclynx"
-readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
